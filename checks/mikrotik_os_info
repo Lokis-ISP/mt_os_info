@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def inventory_mikrotik_os_info(info):
     return [('', None)]
 
